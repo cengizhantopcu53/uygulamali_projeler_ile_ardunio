@@ -7,40 +7,40 @@ https://linktr.ee/cengizhantopcu53
 
 Uygulamalı Projeler İle Ardunio
 
--> 01 LED Yakma 
+01 LED Yakma 
 
--> 02 Buton İle Led Yakma 
+02 Buton İle Led Yakma 
 
--> 03 Analog Değer Okuma
+03 Analog Değer Okuma
 
--> 04 Potansiyometre İle Led Yakma
+04 Potansiyometre İle Led Yakma
 
--> 05 Karaşimşek
+05 Karaşimşek
 
--> 06 LDR İle Otomatik Lamba 
+06 LDR İle Otomatik Lamba 
 
--> 07 RGB LED
+07 RGB LED
 
--> 08 NTC İle Sıcaklık Ölçümü
+08 NTC İle Sıcaklık Ölçümü
 
--> 09 LM35 ile Sıcaklık Ölçümü
+09 LM35 ile Sıcaklık Ölçümü
 
--> 10 Ultrasonik İle Park Sensörü
+10 Ultrasonik İle Park Sensörü
 
--> 11 Joystick İle Servo Kontrolü
+11 Joystick İle Servo Kontrolü
 
--> 12 Dijital Metre Yapımı
+12 Dijital Metre Yapımı
 
--> 13 PIR İle Servo Kontrolü
+13 PIR İle Servo Kontrolü
 
--> 14 Bluetooth İle RGB LED Kontrolü
+14 Bluetooth İle RGB LED Kontrolü
 
--> 15 Dijital Saat Yapımı
+15 Dijital Saat Yapımı
 
--> 16 RFID İle Servo Kontrolü
+16 RFID İle Servo Kontrolü
 
--> 17 ESP8266 İle Sıcaklık ve Nem Ölçümü
+17 ESP8266 İle Sıcaklık ve Nem Ölçümü
 
--> 18 ESP8266 İle Step Motor Kontrolü
+18 ESP8266 İle Step Motor Kontrolü
 
  
