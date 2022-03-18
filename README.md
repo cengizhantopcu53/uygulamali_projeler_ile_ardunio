@@ -5,7 +5,6 @@ https://www.youtube.com/playlist?list=PLoVX4C46JKvp7Yg4lR3p-n4FDG5IJk4ZK
 https://linktr.ee/cengizhantopcu53
 
 
-
 Uygulamalı Projeler İle Ardunio
 
 -> 01 LED Yakma 
@@ -31,7 +30,6 @@ Uygulamalı Projeler İle Ardunio
 -> 11 Joystick İle Servo Kontrolü
 
 -> 12 Dijital Metre Yapımı
-
 
 -> 13 PIR İle Servo Kontrolü
 
